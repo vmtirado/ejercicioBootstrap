@@ -1,0 +1,20 @@
+h1,h2,h3{
+    text-align: center;
+}
+.brown{
+    background-color: #4b250a;
+    color: white;
+}
+
+.blue{
+    background-color: cyan;
+}
+.pink{
+    background-color: palevioletred;
+}
+#leftmenu{
+    background-color: peru;
+}
+#menu{
+    background-color: #8b705c;
+}
